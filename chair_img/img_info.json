@@ -1,4 +1,8 @@
 {
+    "size":{
+        "width" : 630,
+        "height" : 891
+    },
     "1": {
         "bbox_lx": 369,
         "bbox_ly": 673,
